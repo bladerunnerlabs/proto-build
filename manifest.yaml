@@ -1,0 +1,6 @@
+consume:
+    - module: demo_app
+      from: master
+
+    - module: demo_infra
+      from: master

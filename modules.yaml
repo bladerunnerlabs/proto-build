@@ -1,0 +1,13 @@
+modules:
+    demo_app:
+      url: git@github.com:bladerunnerlabs/build_demo_app.git
+      alias: app
+      remote: origin
+    demo_infra:
+      url: git@github.com:bladerunnerlabs/build_demo_infra.git
+      alias: inf
+      remote: origin
+    demo_headers:
+      url: git@github.com:bladerunnerlabs/build_demo_headers.git
+      alias: hdr
+      remote: origin
